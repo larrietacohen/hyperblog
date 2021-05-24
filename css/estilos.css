@@ -8,3 +8,13 @@ body{
     border: 1px solid red;
     padding: 2em;
 }
+
+#cabecera{
+    background: darkblue;
+    color: white;
+    font-size: 3em;
+    padding: 1em;
+    border-radius: 10px;
+    width: 70%;
+    margin: auto;
+}
